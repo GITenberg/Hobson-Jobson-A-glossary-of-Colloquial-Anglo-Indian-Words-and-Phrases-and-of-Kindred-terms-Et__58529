@@ -1,0 +1,39 @@
+_repo: Hobson-Jobson-A-glossary-of-Colloquial-Anglo-Indian-Words-and-Phrases-and-of-Kindred-terms-Et__58529
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Yule, Henry, Sir
+    birthdate: 1820
+    deathdate: 1889
+    gutenberg_agent_id: '5823'
+    url: http://www.gutenberg.org/2009/agents/5823
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Yule
+  - agent_name: Burnell, Arthur Coke
+    gutenberg_agent_id: '50013'
+    url: http://www.gutenberg.org/2009/agents/50013
+  editor:
+    agent_name: Crooke, William
+    alias: Crooke, W.
+    birthdate: 1848
+    deathdate: 1923
+    gutenberg_agent_id: '33412'
+    url: http://www.gutenberg.org/2009/agents/33412
+description: ''
+gutenberg_issued: '2018-12-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58529'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Hobson-Jobson
+
+  A glossary of Colloquial Anglo-Indian Words and Phrases,
+
+  and of Kindred terms, Etymological, Historical, Geographical
+
+  and Discursive'
+url: http://www.gutenberg.org/ebooks/58529
